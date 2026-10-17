@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+<title id="title">Ilustración de desarrollo web</title>
+<desc id="desc">Ventana de código con símbolos de HTML y líneas de código.</desc>
+<rect width="640" height="440" rx="28" fill="#eaf5ff"/>
+<rect x="90" y="75" width="460" height="290" rx="18" fill="#102a43"/>
+<path d="M90 112h460" stroke="#34536e" stroke-width="4"/>
+<circle cx="120" cy="94" r="7" fill="#ff6b6b"/>
+<circle cx="145" cy="94" r="7" fill="#ffd166"/>
+<circle cx="170" cy="94" r="7" fill="#06d6a0"/>
+<text x="130" y="180" font-family="monospace" font-size="35" font-weight="bold" fill="#ffd166">&lt;html&gt;</text>
+<text x="155" y="230" font-family="monospace" font-size="25" fill="#8bd3ff"> &lt;h1&gt;Hola web&lt;/h1&gt;</text>
+<text x="155" y="272" font-family="monospace" font-size="25" fill="#06d6a0"> &lt;p&gt;Aprender&lt;/p&gt;</text>
+<text x="130" y="320" font-family="monospace" font-size="35" font-weight="bold" fill="#ffd166">&lt;/html&gt;</text>
+</svg>
